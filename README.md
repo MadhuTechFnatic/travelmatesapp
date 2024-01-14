@@ -1,11 +1,11 @@
 Certainly! Below is a README template for a React Native project using Expo, specifically tailored for your "TravelMates App." This template provides information on how to get started, install dependencies, and run the Expo project.
 
 ```markdown
-#TravelMates App
+# TravelMates App
 
 TravelMates is a mobile app that helps travelers connect, share experiences, and plan trips together.
 
-##Table of Contents
+## Table of Contents
 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -15,18 +15,18 @@ TravelMates is a mobile app that helps travelers connect, share experiences, and
 - [Contributing](#contributing)
 - [License](#license)
 
-##Getting Started
+## Getting Started
 
 Welcome to TravelMates! Follow the steps below to set up and run the app on your local machine.
 
-###Prerequisites
+### Prerequisites
 
 Make sure you have the following software installed on your computer:
 
 - [Node.js](https://nodejs.org/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
-###Installation
+### Installation
 
 1. Clone the repository:
 
@@ -41,7 +41,7 @@ Make sure you have the following software installed on your computer:
    npm install
    ```
 
-##Running the Expo Project
+## Running the Expo Project
 
 To run the TravelMates App, use the Expo CLI:
 
